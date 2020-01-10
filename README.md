@@ -5,7 +5,7 @@ Jamming was built with React and the Spotify API. This Web Application allows us
 ## Built With
 
 - [React.js](https://reactjs.org/)
-- [Yelp API](hhttps://developer.spotify.com/documentation/web-api/)
+- [Spotify API](https://developer.spotify.com/documentation/web-api/)
 
 ## License
 
